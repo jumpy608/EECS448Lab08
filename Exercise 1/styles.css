@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3rem;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    min-width: 10vw;
+    max-width: 20vw;
+  }
